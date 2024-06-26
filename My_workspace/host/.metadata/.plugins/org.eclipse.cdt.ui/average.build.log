@@ -1,0 +1,6 @@
+14:25:51 **** Incremental Build of configuration Debug for project average ****
+Info: Internal Builder is used for build
+gcc -o average.exe main_new.o 
+
+14:25:51 Build Finished. 0 errors, 0 warnings. (took 165ms)
+

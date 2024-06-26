@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(void)
+{
+	char a, b, c, d, e, f;
+	printf("Enter any 6 characters of your choice: ");
+	fflush(stdout);
+	scanf("%c %c %c %c %c %c", &a, &b, &c, &d, &e, &f);
+	printf("%d %d %d %d %d %d", &a, &b, &c, &d, &e, &f);
+	return 0;
+}

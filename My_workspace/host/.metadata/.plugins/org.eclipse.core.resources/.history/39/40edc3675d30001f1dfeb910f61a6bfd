@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void)
+{
+	int height = 0;
+	printf("Enter height of pyramid: ");
+	scanf("%d",&height);
+	return 0;
+}

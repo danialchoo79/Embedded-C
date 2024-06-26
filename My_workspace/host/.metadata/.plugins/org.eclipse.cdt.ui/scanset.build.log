@@ -1,0 +1,6 @@
+21:50:14 **** Incremental Build of configuration Debug for project scanset ****
+Info: Internal Builder is used for build
+gcc -o scanset.exe main.o 
+
+21:50:14 Build Finished. 0 errors, 0 warnings. (took 161ms)
+

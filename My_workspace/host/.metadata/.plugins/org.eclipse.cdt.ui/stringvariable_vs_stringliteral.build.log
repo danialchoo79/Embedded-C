@@ -1,0 +1,6 @@
+21:33:06 **** Incremental Build of configuration Debug for project stringvariable_vs_stringliteral ****
+Info: Internal Builder is used for build
+gcc -o stringvariable_vs_stringliteral.exe main.o 
+
+21:33:06 Build Finished. 0 errors, 0 warnings. (took 158ms)
+

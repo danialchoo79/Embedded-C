@@ -1,0 +1,6 @@
+18:51:59 **** Incremental Build of configuration Debug for project structPacket ****
+Info: Internal Builder is used for build
+gcc -o structPacket.exe main.o 
+
+18:52:00 Build Finished. 0 errors, 0 warnings. (took 173ms)
+

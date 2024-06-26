@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(void)
+{
+	double number = 45.78976834578;
+
+	printf("Number = %0.14f\n",number);
+
+	return 0;
+}

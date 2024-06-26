@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(void)
+{
+	float number = 45.78976834578;
+
+	printf("Number = %0.9f\n",number);
+
+	return 0;
+}

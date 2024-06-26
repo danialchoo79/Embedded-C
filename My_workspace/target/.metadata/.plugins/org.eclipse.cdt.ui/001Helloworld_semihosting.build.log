@@ -1,0 +1,10 @@
+09:29:15 **** Incremental Build of configuration Debug for project 001Helloworld_semihosting ****
+make -j12 all 
+arm-none-eabi-size   001Helloworld_semihosting.elf 
+   text	   data	    bss	    dec	    hex	filename
+   3864	    116	   1756	   5736	   1668	001Helloworld_semihosting.elf
+Finished building: default.size.stdout
+ 
+
+09:29:15 Build Finished. 0 errors, 0 warnings. (took 155ms)
+

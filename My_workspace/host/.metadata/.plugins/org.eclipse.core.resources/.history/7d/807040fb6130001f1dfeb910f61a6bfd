@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+int main(void)
+{
+	int height = 0;
+//	int row = 0;
+
+	printf("Enter height of pyramid: ");
+	fflush(stdout);
+
+	scanf("%d",&height);
+
+	for(uint32_t i=1; i <= height; i++)
+	{
+		for(uint32_t j=i; j>0; j--)
+		{
+			printf("%d ",j);
+		}
+	}
+	return 0;
+}

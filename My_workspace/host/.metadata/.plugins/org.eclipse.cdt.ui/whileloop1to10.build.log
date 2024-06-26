@@ -1,0 +1,6 @@
+23:21:21 **** Incremental Build of configuration Debug for project whileloop1to10 ****
+Info: Internal Builder is used for build
+gcc -o whileloop1to10.exe main.o 
+
+23:21:21 Build Finished. 0 errors, 0 warnings. (took 166ms)
+

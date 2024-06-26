@@ -1,0 +1,6 @@
+21:22:40 **** Incremental Build of configuration Debug for project ifelseNumCompare ****
+Info: Internal Builder is used for build
+gcc -o ifelseNumCompare.exe main.o 
+
+21:22:40 Build Finished. 0 errors, 0 warnings. (took 156ms)
+

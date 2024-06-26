@@ -1,0 +1,2 @@
+21:04:00 **** Clean-only build of configuration Debug for project arrays ****
+rm -rf main.o arrays.exe main.d 

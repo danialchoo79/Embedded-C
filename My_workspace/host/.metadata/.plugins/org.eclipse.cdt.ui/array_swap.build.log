@@ -1,0 +1,6 @@
+06:30:37 **** Incremental Build of configuration Debug for project array_swap ****
+Info: Internal Builder is used for build
+gcc -o array_swap.exe main.o 
+
+06:30:38 Build Finished. 0 errors, 0 warnings. (took 162ms)
+

@@ -1,0 +1,20 @@
+#include <stdint.h>
+#include <stdio.h>
+
+struct Packet
+{
+	crc;
+	status;
+	payload;
+	bat;
+	sensor;
+	longAddr;
+	shortAddr;
+	addrMode;
+};
+
+int main(void)
+{
+	uint32_t packetValue;
+
+}

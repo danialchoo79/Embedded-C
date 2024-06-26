@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <stdint.h>
+
+void wait_for_user_input(void);
+
+int main(void)
+{
+	uint64_t income;
+	uint64_t tax;
+
+	wait_for_user_input();
+
+	return 0;
+}
+
+void wait_for_user_input(void)
+{
+	while(getchar() != '\n')
+	{
+		// just read the input buffer and do nothing
+	}
+	getchar();
+}
+
+
+

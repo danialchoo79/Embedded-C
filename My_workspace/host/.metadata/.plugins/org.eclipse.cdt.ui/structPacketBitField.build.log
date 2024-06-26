@@ -1,0 +1,6 @@
+19:01:33 **** Incremental Build of configuration Debug for project structPacketBitField ****
+Info: Internal Builder is used for build
+gcc -o structPacketBitField.exe main.o 
+
+19:01:33 Build Finished. 0 errors, 0 warnings. (took 174ms)
+

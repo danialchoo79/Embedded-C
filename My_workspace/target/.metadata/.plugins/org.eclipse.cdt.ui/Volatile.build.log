@@ -1,0 +1,10 @@
+06:19:01 **** Incremental Build of configuration Debug for project Volatile ****
+make -j12 all 
+arm-none-eabi-size   Volatile.elf 
+   text	   data	    bss	    dec	    hex	filename
+    688	      8	   1568	   2264	    8d8	Volatile.elf
+Finished building: default.size.stdout
+ 
+
+06:19:01 Build Finished. 0 errors, 0 warnings. (took 150ms)
+
